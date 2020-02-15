@@ -1,0 +1,236 @@
+#main{
+	padding-bottom:30px;
+}
+/* Section 1 */
+.section1{
+	padding:12px 0 0 0;
+	position:relative;
+}
+.section1 .street1 {
+	height:220px;
+}
+.topbanner{
+	width:990px;
+	height:220px;
+	overflow:hidden;
+	position:relative;
+}
+.topbanner ul{
+	position:absolute;
+	left:0;
+	top:0;
+	width:9900px;
+	background-color:#fafafa;
+}
+.topbanner li{
+	float:left;
+	width:990px;
+	height:220px;
+	overflow:hidden;
+}
+.topbanner .nav{
+	position:absolute;
+	right:auto;
+	bottom:15px;
+	padding:0;
+	width:240px;
+	left:50%;
+	margin-left:-120px;
+	height:8px;
+	line-height:8px;
+	font-size:2px;	
+	overflow:hidden;
+	text-align:center;
+}
+.topbanner .nav a{
+	display:inline-block;
+	width:32px;
+	height:0;
+	padding-top:8px;
+	overflow:hidden;
+	background-color:rgba(0,0,0,.45);
+	background-color:#000\9;
+	filter:alpha(opacity=45);
+	margin:0 1px;
+	/*width:17px;
+	height:17px;
+	overflow:hidden;
+	text-align:center;
+	margin:0 3px;
+	color:#fff;
+	font-family:Tahoma,Arial,Verdana;
+	font-size:12px;
+	background:url(../img/abtn_24bit.png) no-repeat 0 0;
+	_background-image:url(../img/abtn_8bit.png);
+	_filter:alpha(opacity=90);*/
+}
+.topbanner .nav a:hover {
+	text-decoration:none;
+}
+.topbanner .nav .current{
+	background-color:rgba(1,170,7,.55);
+	background-color:#01aa07\9;
+	filter:alpha(opacity=55);
+}
+
+.box{}
+.box .hd{
+	height:30px;
+	padding-left:15px;
+	font:bold normal 14px/24px SimSun;
+	color:#555;
+	background:url(../img/box_hd.png) 0 5px no-repeat;
+	border-bottom:2px solid #666;
+}
+.box .hd .hd_link{
+	color:#555;
+}
+.box .hd .hd_link:hover{
+	color:#444;
+	text-decoration:none;
+}
+.box .bd{
+	border:1px solid #ddd;
+	border-top-style:none;
+	background-color:#fff;
+	
+}
+.box .hd_orange{
+	background-position:0 -29px;
+	border-bottom-color:#ff6a00;
+}
+.box .hd_blue{
+	background-position:0 -65px;
+	border-bottom-color:#69c;
+}
+.box .hd_green{
+	background-position:0 -101px;
+	border-bottom-color:#01aa07;
+}
+.box .linkMore{
+	font-size:12px;
+	font-weight:normal;
+	display:inline-block;
+	/*padding-right:24px;
+	background:url(../img/sprite.png) right 6px no-repeat;*/
+}
+.box .linkMore:hover{
+	background-position:right -27px;
+	text-decoration:none;	
+}
+.product_show{
+	height:257px;
+	overflow:hidden;
+	padding:13px 7px 0;
+}
+.product_show .proSlider{
+	position:relative;
+	width:176px;
+}
+.product_show .mover{
+	position:relative;
+	width:1760px;
+}
+.product_show .mover li{
+	float:left;
+	width:176px;
+}
+.product_show .mover .img{
+	width:160px;
+	margin:0 auto 7px;
+}
+.product_show .img a:hover img{
+	opacity:.8;
+	filter:alpha(opacity=80);
+}
+.product_show .mover .intro{
+	height:72px;
+	width:168px;
+	margin:0 auto 10px;
+	overflow:hidden;
+}
+.product_show .abtns{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+}
+.product_show .abtn{
+	width:20px;
+	height:34px;
+	top:65px;
+	text-indent:0;
+	text-align:center;
+	background-color:rgba(0,0,0,.5);
+	background-color:transparent\9;
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr="#88000000",EndColorStr="#88000000");
+	font:normal bold 17px/34px SimSun;
+	color:#fff;
+}
+.product_show .abtn:hover{
+	text-decoration:none;
+	background-color:rgba(0,0,0,.7);
+	background-color:transparent\9;
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr="#B3000000",EndColorStr="#B3000000");
+}
+.product_show .aleft{
+	left:0;
+}
+.product_show .aright{
+	right:0;
+}
+.newslist {
+	height:250px;
+	padding:20px 0 0;
+	/*background:#fff url(../img/bg_box_gradient.jpg) right bottom no-repeat;*/
+}
+.newslist li {
+	float:left;
+	width:50%;
+	height:18px;
+	padding-bottom:12px;
+	overflow:hidden;
+}
+.newslist li p{
+	padding-left:30px;
+	width:340px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+.newslist li .date{
+	color:#038307;
+	display:inline-block;
+	padding-right:5px;
+}
+.newslist li a:hover .date{
+	color:#f60;
+} 
+.newslist li .orange .date{
+	color:#f60;
+}
+.company_intro{
+	height:247px;
+	padding:23px 28px 0 20px;
+	/*background:#fff url(../img/bg_box_gradient.jpg) right bottom no-repeat;*/
+	overflow:hidden;
+}
+.company_intro p{
+	text-indent:2em;
+	margin-bottom:1.2em;
+}
+.company_intro .pic{
+	float:left;
+	text-indent:0;
+	margin:-12px 20px 20px 0;
+}
+.company_intro .tb{
+	margin-left:24px;
+	font-weight:bold;
+}
+.company_intro td{
+	padding-left:2em;
+	padding-bottom:2px;
+}

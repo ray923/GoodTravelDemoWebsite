@@ -1,0 +1,207 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Position>
+    <ID>1</ID>
+    <Text />
+    <Resource>./themes/default/img/Homepage/inasayama.jpg</Resource>
+    <JumpUrl>javascript:void(0);</JumpUrl>
+    <Status>1</Status>
+    <Priority>1</Priority>
+	  <Content />
+  </Position>
+  <Position>
+    <ID>1</ID>
+    <Text />
+    <Resource>./themes/default/img/Homepage/熊本城（桜）.jpg</Resource>
+    <JumpUrl>javascript:void(0);</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content />
+  </Position>
+
+  <Position>
+    <ID>2</ID>
+    <Text>公司资质介绍</Text>
+    <Resource>./themes/default/img/temp/company_quality.jpg</Resource>
+    <JumpUrl></JumpUrl>
+    <Status>1</Status>
+    <Priority>1</Priority>
+    <Content/>
+  </Position>
+  
+  <Position>
+    <ID>3</ID>
+    <Text>九州风情----- 4晚5日深度温泉游。精彩行程：游览长崎、小滨、云仙、熊本、阿苏、佐贺等地，带您饱览原味九州风情；</Text>
+    <Resource>themes/default/img/pro/ProductList/1.jpg</Resource>
+    <JumpUrl>Product.aspx?ID=P1</JumpUrl>
+    <Status>1</Status>
+    <Priority>1</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>3</ID>
+    <Text>（三飞五天）~成都、海螺沟、康定</Text>
+    <Resource>themes/default/img/pro/ProductList/2.jpg</Resource>
+    <JumpUrl>Product.aspx?ID=P2</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>3</ID>
+    <Text>（三飞五天）~成都、海螺沟、康定</Text>
+    <Resource>themes/default/img/pro/ProductList/2.jpg</Resource>
+    <JumpUrl>Product.aspx?ID=P2</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>3</ID>
+    <Text>稻城摄影线路系列之（四飞四天）~寻找心中的“香格里拉”</Text>
+    <Resource>themes/default/img/pro/ProductList/3.jpg</Resource>
+    <JumpUrl>Product.aspx?ID=P3</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>3</ID>
+    <Text>昆罗平沙林双飞汽车5晚6天</Text>
+    <Resource>themes/default/img/pro/ProductList/4.jpg</Resource>
+    <JumpUrl>Product.aspx?ID=P4</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+  
+  <Position>
+    <ID>4</ID>
+    <Text>举办长崎、上海旅游意见交流会</Text>
+    <Resource></Resource>
+    <JumpUrl>NewsDetail.aspx?newsID=1</JumpUrl>
+    <Status>1</Status>
+    <Priority>1</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】副市长赵雯检查春节假日旅游安全工作</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/0d0f43b7c09a489598da225d93edb6c2.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】春节黄金周本市预计接待游客约340万人次</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/3b889fd3126941a18c0d50afeac00aaa.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】市假日办成员单位组织开展春节黄金周节前检查</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/9a1094aef137429084955e7bd620e690.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>3</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】市旅游局召开2014年离退休老同志新春座谈会</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/11a63a0e077d4d96a28a67fb7a63917a.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】本市旅游部门认真部署春节假日旅游准备工作</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/e081010ac931436caae2e567d54c167c.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】市假日办发布2014年春节黄金周旅游指南</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/2bd388bc718a4db2942354fcdc163b9f.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】凝聚改革共识促进改革创新 市十四届人大二次会议闭幕</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/0ec4e13552c7449fa7cbb578d4245ceb.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】市旅游行业协会旅行社分会召开四届二次理事大会</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/24c88b6a90944bd9879e4b922eec7092.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】市旅游局通报2013年旅游投诉情况</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/d076375acc83416bbbfa239cbaec543a.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+
+  <Position>
+    <ID>4</ID>
+    <Text>【上海市旅游局政务】市旅游局召开2014年离退休老同志新春座谈会</Text>
+    <Resource></Resource>
+    <JumpUrl>http://lyw.sh.gov.cn/h/jdxwgzdt/11a63a0e077d4d96a28a67fb7a63917a.jhtml</JumpUrl>
+    <Status>1</Status>
+    <Priority>4</Priority>
+    <Content/>
+  </Position>
+  
+  
+  <Position>
+    <ID>5</ID>
+    <Text>
+      <![CDATA[
+          <p>上海国际友好旅行社，成立于1989年。成立之初隶属于上海市政府外事办公室，是市政府重要的外事接待基地。于2009年10月划归上海市衡山集团。被国家旅游事业管理局认定为“国家一类社”，曾两次获得“全国百强旅行社”的称号。出入境许可证号：L-SH-CJ00018。</p>
+          <p>我公司经过二十多年的发展，现已成为出境游、入境游、国内游等旅游资源齐全的综合性旅行社，在现有经营板块的基础上，围绕丰富旅游产业链到新发展，还独立成立了订房中心、签证中心，为您提供了专业化一站式服务。</p>
+          ]]>
+    </Text>
+    <Resource>./themes/default/img/pic_company_intro.jpg</Resource>
+    <JumpUrl></JumpUrl>
+    <Status>1</Status>
+    <Priority>2</Priority>
+    <Content/>
+  </Position>
+</NewDataSet>

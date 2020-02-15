@@ -1,0 +1,128 @@
+.proinfo{
+	border-left:2px solid #ededed;
+	border-right:2px solid #ededed;
+	padding:35px 28px 15px;
+	background:#fff;
+	box-shadow:0 0 2px #dedede;
+	_height:500px;
+	min-height:500px;
+}
+.prozoom{
+	width:360px;
+	background:#fff;
+	padding:0 0 20px 30px;
+}
+.bigimg{
+	width:348px;
+	height:261px;
+	overflow:hidden;
+	position:relative;
+	background-color:#fff;
+	padding:4px;
+	border:2px solid #dddddd;
+	border-radius:5px;
+}
+.prodetail{
+	font-size:14px;
+	padding-left:25px;
+	padding-right:1.5em;
+	padding-bottom:30px;
+}
+.prodetail p,
+.prodetail .prodetail_inner div{
+	margin-bottom:1em;
+}
+.prodetail .sub_tit {
+	display:inline-block;
+	padding-left:25px;
+	padding-right:10px;
+	font-weight:bold;
+	font-size:14px;
+	margin-left:-25px;
+	color:#555;
+	line-height:22px;
+	margin-top:1em;
+	background:#f0f0f0 url(../img/icon_sprite.png) no-repeat;
+	_background-image:url(../img/icon_sprite_ie6.png);
+}
+.prodetail .icon_day {
+	background-position:5px 5px;
+}
+.prodetail .icon_scene {
+	background-position:3px -840px;
+}
+.proinfo .pro_tit{
+	font-size:20px;
+	color:#009300;
+	font-weight:bold;
+	font-family:"microsoft yahei";
+	margin-bottom:20px;
+	padding-bottom:15px;
+	border-bottom:1px dotted #666;
+}
+
+.imgzoomlist{
+	width:330px;
+	margin-left:auto;
+	margin-right:auto;
+	height:62px;
+	position:relative;
+}
+.imgzoomlist li{
+	float:left;
+	width:79px;
+	height:60px;
+	padding:0 5px;
+	overflow:hidden;
+}
+.imgzoomlist img{
+	display:block;
+	width:75px;
+	height:56px;
+	border:2px solid #ddd;
+}
+.imgzoomlist a:hover img,
+.imgzoomlist .current img{
+	border-color:#f60;
+}
+.imgzoomlist .inner{
+	width:267px;
+	height:62px;
+	overflow:hidden;
+	position:relative;
+	margin:0 auto;
+}
+.imgzoomlist ul{
+	position:absolute;
+	left:0;
+	top:0;
+	width:20000px;
+}
+.imgzoomlist .abtn{
+	top:0;
+	width:20px;
+	height:60px;
+	background:url(../img/imgzoom_abtn.png) no-repeat;
+}
+.imgzoomlist .aleft{
+	left:0;
+	background-position:2px 19px;
+}
+.imgzoomlist .agrayleft,
+.imgzoomlist .agrayleft:hover{
+	display:block;
+	cursor:default;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}
+.imgzoomlist .aright{
+	right:0;
+	background-position:0 -30px;
+}
+.imgzoomlist .agrayright,
+.imgzoomlist .agrayright:hover{
+	display:block;
+	cursor:default;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}

@@ -1,0 +1,60 @@
+.banner{
+	padding-top:12px;
+}
+.pg_visa {
+	padding-bottom:15px;
+}
+.pg_visa .main{
+	border:2px solid #ededed;
+	background:#fff;
+	_height:550px;
+	min-height:550px;
+}
+.pg_visa .article{
+	padding:25px 35px;
+}
+
+.article .main_tit{
+	font-size:20px;
+	color:#009300;
+	font-weight:bold;
+	font-family:"microsoft yahei";
+	margin-bottom:20px;
+	padding-bottom:15px;
+	text-align:left;
+	padding-left:10px;
+	border-bottom:1px dashed #ccc;
+}
+.article .section{
+	padding-left:10px;
+	padding-right:10px;
+}
+.article p{
+	color:#333;
+	font-size:14px;
+	margin-bottom:1em;
+}
+.visa_piclist {}
+.visa_piclist ul{
+	float:left;
+	background-color:#f0f0f0;
+	border-radius:5px;
+	padding:0 8px;	
+}
+.visa_piclist li{
+	float:left;
+	padding:18px 0;	
+	width:220px;
+	height:125px;
+	font-family:"microsoft yahei";
+}
+.visa_piclist li img{
+	display:block;
+	height:106px;
+	width:201px;
+	margin:0 auto;
+}
+.visa_piclist li p{
+	margin-top:5px;
+	text-align:center;
+}

@@ -1,0 +1,101 @@
+.banner{
+	padding-top:12px;
+}
+.pg_about {
+	padding-bottom:15px;
+}
+.pg_about .aside{
+	position:absolute;
+	margin:20px 0 0 -12px;
+}
+.pg_about .main{
+	border:2px solid #ededed;
+	background:#fff;
+	_height:550px;
+	min-height:550px;
+}
+.pg_about .article{
+	display:block;
+	padding:25px 35px 35px 150px;
+	transition:display 0.8s;
+	-moz-transition:display 0.8s;
+	-webkit-transition:display 0.8s;
+}
+.sidemenu {}
+.sidemenu li{
+	width:129px;
+	height:48px;
+	margin-bottom:3px;
+}
+.sidemenu li a{
+	position:relative;
+	left:0;
+	display:block;
+	width:129px;
+	height:48px;
+	background:url(../img/bg_ribbon.png) no-repeat;
+	font:normal bold 16px/45px "microsoft yahei";
+	color:#fff;
+	text-indent:25px;
+	text-shadow:0 1px 2px #000;
+	letter-spacing:2px;
+	transition:left 0.8s;
+	-moz-transition:left 0.8s;
+	-webkit-transition:left 0.8s;
+}
+.sidemenu li a:hover {
+	left:-2px;
+	text-decoration:none;
+	color:#fff;
+}
+.sidemenu li .ribbon_1{
+	background-position: 0 0;
+}
+.sidemenu li .ribbon_2{
+	background-position: 0 -50px;
+}
+
+.article .main_tit{
+	font-size:20px;
+	color:#009300;
+	font-weight:bold;
+	font-family:"microsoft yahei";
+	margin-bottom:30px;
+	padding-bottom:15px;
+	text-align:left;
+	padding-left:10px;
+	border-bottom:1px dashed #ccc;
+}
+.article .section{
+	padding-left:10px;
+	padding-right:10px;
+}
+.article .section p{
+	font-size:14px;
+	text-indent:2em;
+	margin-top:1em;
+}
+.article .section h2,
+.article .section h3{
+	margin-top:1em;
+}
+.article .sub_tit {
+	display:inline-block;
+	padding-left:25px;
+	padding-right:10px;
+	font-weight:bold;
+	font-size:14px;
+	color:#333;
+	line-height:22px;
+	background:#f0f0f0 url(../img/icon_sprite.png) no-repeat;
+	_background-image:url(../img/icon_sprite_ie6.png);
+}
+.article .icon_star {
+	background-position:5px 5px;
+}
+.article .icon_flag {
+	background-position:3px -840px;
+}
+.article .section p .sub_tit{
+	text-indent:0;
+}

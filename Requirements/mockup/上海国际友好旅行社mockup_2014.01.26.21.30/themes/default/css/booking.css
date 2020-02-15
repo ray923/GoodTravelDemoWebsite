@@ -1,0 +1,69 @@
+.banner{
+	padding-top:12px;
+}
+.pg_booking {
+	padding-bottom:15px;
+}
+.pg_booking .main{
+	border:2px solid #ededed;
+	background:#fff;
+	_height:550px;
+	min-height:550px;
+}
+.pg_booking .article{
+	padding:25px 35px;
+}
+
+.article .main_tit{
+	font-size:20px;
+	color:#009300;
+	font-weight:bold;
+	font-family:"microsoft yahei";
+	margin-bottom:20px;
+	padding-bottom:15px;
+	text-align:left;
+	padding-left:10px;
+	border-bottom:1px dashed #ccc;
+}
+.article .section{
+	padding-left:10px;
+	padding-right:10px;
+}
+.article p{
+	color:#333;
+	font-size:14px;
+	margin-bottom:1em;
+}
+.hotel_piclist {}
+.hotel_piclist ul{
+	float:left;
+	background-color:#f0f0f0;
+	border-radius:5px;
+	padding:0 8px;	
+}
+.hotel_piclist li{
+	float:left;
+	padding:15px 0;	
+	width:212px;
+	height:137px;
+}
+.hotel_piclist li img{
+	display:block;
+	height:137px;
+	margin:0 auto;
+}
+.taobao_shop{
+	display:inline-block;
+	padding-left:45px;
+	height:34px;
+	width:433px;
+	color:#fff;
+	line-height:34px;
+	font-weight:bold;
+	font-family:"microsoft yahei";
+	background:url(../img/bg_taobao_url.png) 0 0 no-repeat;
+}
+.taobao_shop:hover {
+	text-decoration:none;
+	color:#f0f0f0;
+}

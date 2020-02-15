@@ -1,0 +1,89 @@
+.productList{
+	border-left:2px solid #ededed;
+	border-right:2px solid #ededed;
+	padding:0 0 15px;
+	background:#fff url(../img/productList_left_bg.png) -1px 0 repeat-y;
+	box-shadow:0 0 2px #dedede;
+}
+.prolistwrap{
+	overflow:hidden;
+}
+.prolist{
+	margin-top:-1px;
+}
+.prolist li{
+	position:relative;
+	zoom:1;
+	height:220px;
+	padding:34px 35px 28px 334px;
+	border-top:1px solid #dedede;
+}
+.prolist .colorBorder{
+	position:absolute;
+	width:5px;
+	left:-1px;
+	height:283px;
+	top:-1px;
+	background-color:#dedede;
+}
+.prolist .colorBorder_1{
+	background-color:#ffc163;
+}
+.prolist .colorBorder_2{
+	background-color:#7ebfff;
+}
+.prolist .colorBorder_3{
+	background-color:#8ed002;
+}
+.prolist .colorBorder_4{
+	background-color:#ff79aa;
+}
+.prolist .colorBorder_5{
+	background-color:#ffdd26;
+}
+.prolist .pic{
+	position:absolute;
+	margin-left:-300px;
+	width:279px;
+	height:220px;
+	background:url(../img/pic_bg.png) 0 0 no-repeat;
+	overflow:hidden;
+}
+.prolist .pic img{
+	display:block;
+	width:268px;
+	height:204px;
+	margin:5px 0 0 5px;
+	background-color:#fff;
+}
+.prolist .pic a:hover img{
+	opacity:0.9;
+	filter:alpha(opacity=90);
+}
+.prolist .tit{
+	font:normal 600 18px microsoft yahei;
+	padding-bottom:10px;
+}
+.prolist .tit a{
+	color:#009300;
+}
+.prolist .intro{
+	height:118px;
+	font-size:14px;
+}
+.prolist .btn_detail{
+	position:absolute;
+	bottom:35px;
+	display:inline-block;
+	border:1px solid #ff6a00;
+	color:#ff6a00;
+	font-size:14px;
+	width:100px;
+	line-height:26px;
+	text-align:center;
+}
+.prolist .btn_detail:hover{
+	text-decoration:none;
+	border-color:#f90;
+	color:#f90;
+}
